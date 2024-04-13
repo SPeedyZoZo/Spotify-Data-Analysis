@@ -1,0 +1,35 @@
+spotify api access token:
+CLIENT_ID = '1b25813dc96f419fa85b1ac382f8ec8b'
+CLIENT_SECRET = '75db22041dec48db9cd8c6acf1828b5e'
+Spotify access token = ''
+
+Data collection tool: pip install requests
+Data storage: csv files
+
+
+
+playlist set:
+1. phonk (ID: 37i9dQZF1DWWY64wDtewQt, Tracks: 100)
+2. Today’s Top Hits (ID: 37i9dQZF1DXcBWIGoYBM5M, Tracks: 50)
+3. Hot 40 Arabia  عربي (ID: 7bW4FpLOEQPBmdjIes0sZ9, Tracks: 40)
+4. طرب خليجي (ID: 37i9dQZF1DX5lckay3OqOG, Tracks: 40)
+5. Hits خليجي (ID: 37i9dQZF1DWU486KSiznWZ, Tracks: 40)
+6. KimBops! (ID: 37i9dQZF1DX0018ciYu6bM, Tracks: 70)
+7. Top Gaming Tracks (ID: 37i9dQZF1DWTyiBJ6yEqeu, Tracks: 100)
+8. وش الترند (ID: 37i9dQZF1DXah35IHcpZFI, Tracks: 50)
+9. Ultra Gaming (ID: 37i9dQZF1DWYN9NBqvY7Tx, Tracks: 100)
+10. big on the internet (ID: 37i9dQZF1DX5Vy6DFOcx00, Tracks: 50)
+11. RapCaviar (ID: 37i9dQZF1DX0XUsuxWHRQd, Tracks: 50)
+13.  شيلات (ID: 37i9dQZF1DWTZ8jTY8g4MU, Tracks: 50)
+14. Top Throwbacks 2023 (ID: 37i9dQZF1DXdpy4ZQQMZKm, Tracks: 100)
+15. Yalla  (ID: 37i9dQZF1DX5cO1uP1XC1g, Tracks: 40)
+16. هوايَهْ عراقي (ID: 37i9dQZF1DX657Vh1lw2BF, Tracks: 40)
+17. hexxed (ID: 37i9dQZF1DX7XEgl7z0Lyy, Tracks: 100)
+18. sped up songs (ID: 37i9dQZF1DX0mWZXNs0ArA, Tracks: 100)
+19. كشتة (ID: 37i9dQZF1DXdHY7SkOc9Ib, Tracks: 62)
+20. Soft Pop Hits (ID: 37i9dQZF1DWTwnEm1IYyoj, Tracks: 100)
+21. Latest Malayalam (ID: 37i9dQZF1DWSxEc2RjBCQv, Tracks: 70)
+22. Saudi Hits (ID: 37i9dQZF1DWYroAYJRbOhT, Tracks: 50)
+23. Hot Hits Gulf (ID: 37i9dQZF1DXcJUwMZo8Ss1, Tracks: 50)
+24. أقوى المهرجانات (ID: 37i9dQZF1DX4qF0846GNk8, Tracks: 50)
+25. خليجي حزين (ID: 37i9dQZF1DXa7JWqw8BIJc, Tracks: 51)
