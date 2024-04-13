@@ -10,8 +10,8 @@ import base64
 import requests
 
 # Your updated client credentials
-CLIENT_ID = '1b25813dc96f419fa85b1ac382f8ec8b'
-CLIENT_SECRET = '75db22041dec48db9cd8c6acf1828b5e'
+CLIENT_ID = ' '
+CLIENT_SECRET = ' '
 
 # Function to get an access token
 def get_access_token(client_id, client_secret):

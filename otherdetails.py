@@ -3,8 +3,8 @@ from requests.auth import HTTPBasicAuth
 import pandas as pd
 
 # Spotify API credentials
-CLIENT_ID = '1b25813dc96f419fa85b1ac382f8ec8b'
-CLIENT_SECRET = '75db22041dec48db9cd8c6acf1828b5e'
+CLIENT_ID = ' '
+CLIENT_SECRET = ' '
 
 def get_spotify_access_token(client_id, client_secret):
     """Authenticate with the Spotify API and return the access token."""

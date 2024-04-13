@@ -32,8 +32,8 @@ from scipy.stats import chisquare
 import numpy as np
 from itertools import combinations
 
-CLIENT_ID = '1b25813dc96f419fa85b1ac382f8ec8b'
-CLIENT_SECRET = '75db22041dec48db9cd8c6acf1828b5e'
+CLIENT_ID = ' '
+CLIENT_SECRET = ' '
 
 # Data Loading
 song_data = pd.read_csv('song_data_bigger.csv')

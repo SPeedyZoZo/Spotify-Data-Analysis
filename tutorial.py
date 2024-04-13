@@ -70,7 +70,7 @@
 # import time
 
 # # Initialize Spotipy client with your credentials
-# client_credentials_manager = SpotifyClientCredentials(client_id='1b25813dc96f419fa85b1ac382f8ec8b', client_secret='266c03012092494789ff1ee697415226')
+# client_credentials_manager = SpotifyClientCredentials(client_id=' ', client_secret=' ')
 # sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager, requests_timeout=10, retries=10)
 
 # # Load the dataset
