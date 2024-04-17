@@ -1,0 +1,8 @@
+backoff==2.2.1
+matplotlib==3.8.3
+networkx==3.2.1
+numpy==1.26.4
+pandas==2.2.2
+Requests==2.31.0
+scipy==1.13.0
+spotipy==2.23.0
