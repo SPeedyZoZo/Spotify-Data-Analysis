@@ -70,13 +70,13 @@ To use this application:
 
 ## Contributions and Plagarism
 
-Please note that this repository is for showcasing my work and is not intended for contributions or plagiarism. If this repository becomes private, any further access will require my permission.
+Please note that this repository is for showcasing our work and is not intended for contributions or plagiarism. If this repository becomes private, any further access will require our permission.
 
 ## Issues
 
-If you encounter any problems or have feedback, please open an issue on this repository, detailing the problem and how to reproduce it. (no promises I will fix it as of now since this repository is just a showcase of my work submission)
+If you encounter any problems or have feedback, please open an issue on this repository, detailing the problem and how to reproduce it (no guarantees it will be fixed as this repository is just a showcase of our work submission). 
 
 
 ## Final Thoughts
 
-This README provides a comprehensive guide to help you get started with my Spotify API Data Analysis application. I hope you find this project useful for learning and applying data science techniques to real-world music data.
+This README provides a comprehensive guide to help you get started with our Spotify API Data Analysis application. I hope you find this project useful for learning and applying data science techniques to real-world music data. 
