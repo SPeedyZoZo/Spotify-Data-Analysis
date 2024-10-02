@@ -18,7 +18,7 @@ This repository's code was **NOT** submitted as part of our project, but the gra
 
 The repository includes several example datasets (`interactions_bigger.csv`, `song_data_smaller.csv`, etc.), stored in various file formats to demonstrate the compatibility and functionality of the data analysis operations within this application.
 
-###### Disclaimer: Please note that this repository may appear messy as it includes experimental code that was not graded or marked. The code provided by QMUL as boilerplate is also included, although now drastically different to what they provided. However, the remaining code was written by me and is relevant to the project.
+###### Disclaimer: Please note that this repository may appear messy as it includes experimental code that was not graded or marked. The code provided by QMUL as boilerplate is also included, although now drastically different to what they provided. However, the remaining code was written by us and is relevant to the project.
 
 ## Files Description
 
@@ -31,7 +31,7 @@ The repository includes several example datasets (`interactions_bigger.csv`, `so
 - `tutorial.py`: Serves as an educational tool demonstrating the application of pandas and networkx in a music data context, including data visualisation and basic network statistics. This was our initial boilerplate code provided by QMUL, which has since been expanded upon and altered.
 
 ### Notebooks:
-- `a.ipynb`: A Jupyter notebook that serves as a platform for exploratory data analysis, prototyping Spotify API interactions, or visualizing music data analytics.
+- `a.ipynb`: A Jupyter notebook that serves as a platform for exploratory data analysis, prototyping Spotify API interactions, or visualising music data analytics.
 
 ### Data Files:
 #### CSV Files:
@@ -54,18 +54,18 @@ Before you begin using this application, ensure you have the following installed
 To set up this project for local development and testing:
 1. Clone the repository to your local machine.
 2. Install the required dependencies:
-  ```
-  pip install -r requirements.txt
-  ```
+```
+$ pip install -r requirements.txt
+```
 
 ## Usage
 
 To use this application:
 1. First, obtain your Spotify API credentials (Client ID and Client Secret) and fill them in where required in the scripts.
 2. Run the individual scripts to perform tasks like data fetching, analysis, or simulation of interactions. For example:
-  ```
-  python attributeGet.py
-  ```
+```
+$ python attributeGet.py
+```
 3. Use the Jupyter notebook (a.ipynb) for interactive data analysis and visualization.
 
 ## Contributions and Plagarism
